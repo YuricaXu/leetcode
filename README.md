@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/YuricaXu/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/YuricaXu/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YuricaXu/leetcode/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/YuricaXu/leetcode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/YuricaXu/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/YuricaXu/leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
