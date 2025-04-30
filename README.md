@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YuricaXu/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/YuricaXu/leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/YuricaXu/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YuricaXu/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/YuricaXu/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/YuricaXu/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/YuricaXu/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YuricaXu/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
