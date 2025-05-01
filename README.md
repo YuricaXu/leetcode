@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YuricaXu/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/YuricaXu/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0088-merge-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/YuricaXu/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/YuricaXu/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YuricaXu/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/YuricaXu/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/YuricaXu/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/YuricaXu/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/YuricaXu/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
