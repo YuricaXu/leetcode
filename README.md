@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/YuricaXu/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/YuricaXu/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/YuricaXu/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/YuricaXu/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/YuricaXu/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/YuricaXu/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Dynamic Programming
 |  |
@@ -219,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
