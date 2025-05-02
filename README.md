@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/YuricaXu/leetcode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/YuricaXu/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1325-path-with-maximum-probability](https://github.com/YuricaXu/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/YuricaXu/leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/YuricaXu/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -247,8 +249,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
+| [1325-path-with-maximum-probability](https://github.com/YuricaXu/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
+| [1325-path-with-maximum-probability](https://github.com/YuricaXu/leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
