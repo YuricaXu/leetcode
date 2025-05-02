@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/YuricaXu/leetcode/tree/master/0645-set-mismatch) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/YuricaXu/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/YuricaXu/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/YuricaXu/leetcode/tree/master/0645-set-mismatch) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/YuricaXu/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/YuricaXu/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
