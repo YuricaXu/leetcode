@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/YuricaXu/leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YuricaXu/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/YuricaXu/leetcode/tree/master/0792-binary-search) |
+| [0881-loud-and-rich](https://github.com/YuricaXu/leetcode/tree/master/0881-loud-and-rich) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/YuricaXu/leetcode/tree/master/1044-find-common-characters) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/YuricaXu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/YuricaXu/leetcode/tree/master/0563-binary-tree-tilt) |
+| [0881-loud-and-rich](https://github.com/YuricaXu/leetcode/tree/master/0881-loud-and-rich) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/YuricaXu/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/YuricaXu/leetcode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
+| [0881-loud-and-rich](https://github.com/YuricaXu/leetcode/tree/master/0881-loud-and-rich) |
 | [1325-path-with-maximum-probability](https://github.com/YuricaXu/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -284,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YuricaXu/leetcode/tree/master/0207-course-schedule) |
+| [0881-loud-and-rich](https://github.com/YuricaXu/leetcode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
