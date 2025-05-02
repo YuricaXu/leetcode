@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YuricaXu/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/YuricaXu/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/YuricaXu/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/YuricaXu/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/YuricaXu/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YuricaXu/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YuricaXu/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1044-find-common-characters](https://github.com/YuricaXu/leetcode/tree/master/1044-find-common-characters) |
 ## String
 |  |
@@ -223,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
