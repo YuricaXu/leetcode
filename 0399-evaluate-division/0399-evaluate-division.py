@@ -1,4 +1,3 @@
-
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
         self.graph = {}; self.vis = set()
@@ -34,4 +33,4 @@ class Solution:
             else:    
                 dfs(a,b,1)
                 output.append(self.val)
-        return output        
+        return output
