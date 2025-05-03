@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/YuricaXu/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/YuricaXu/leetcode/tree/master/0067-add-binary) |
 ## Design
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuricaXu/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/YuricaXu/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/YuricaXu/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/YuricaXu/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/YuricaXu/leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/YuricaXu/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/YuricaXu/leetcode/tree/master/0202-happy-number) |
 | [0949-cat-and-mouse](https://github.com/YuricaXu/leetcode/tree/master/0949-cat-and-mouse) |
 ## Stack
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YuricaXu/leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/YuricaXu/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YuricaXu/leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
