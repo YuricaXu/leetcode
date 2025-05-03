@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YuricaXu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/YuricaXu/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/YuricaXu/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/YuricaXu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/YuricaXu/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/YuricaXu/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/YuricaXu/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/YuricaXu/leetcode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/YuricaXu/leetcode/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/YuricaXu/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/YuricaXu/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/YuricaXu/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/YuricaXu/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YuricaXu/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YuricaXu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/YuricaXu/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/YuricaXu/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/YuricaXu/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YuricaXu/leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/YuricaXu/leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
