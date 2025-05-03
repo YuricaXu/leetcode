@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YuricaXu/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/YuricaXu/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/YuricaXu/leetcode/tree/master/0202-happy-number) |
 | [0949-cat-and-mouse](https://github.com/YuricaXu/leetcode/tree/master/0949-cat-and-mouse) |
 ## Stack
