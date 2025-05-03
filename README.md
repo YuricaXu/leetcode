@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YuricaXu/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YuricaXu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/YuricaXu/leetcode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/YuricaXu/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YuricaXu/leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/YuricaXu/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YuricaXu/leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/YuricaXu/leetcode/tree/master/0645-set-mismatch) |
