@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YuricaXu/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/YuricaXu/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/YuricaXu/leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/YuricaXu/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/YuricaXu/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YuricaXu/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
@@ -374,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/YuricaXu/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/YuricaXu/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
