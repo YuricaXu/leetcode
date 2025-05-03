@@ -1,7 +1,6 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
         row, col = len(grid), len(grid[0])
-        #Let perimeter be the perimeter of the island of the grid.
         DIR = [0, 1, 0, -1, 0]
         perimeter = 0
 
