@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/YuricaXu/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1325-path-with-maximum-probability](https://github.com/YuricaXu/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/YuricaXu/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/YuricaXu/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Tree
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0949-cat-and-mouse](https://github.com/YuricaXu/leetcode/tree/master/0949-cat-and-mouse) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/YuricaXu/leetcode/tree/master/0948-sort-an-array) |
 | [1873-longest-nice-substring](https://github.com/YuricaXu/leetcode/tree/master/1873-longest-nice-substring) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/YuricaXu/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -333,4 +337,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/YuricaXu/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 <!---LeetCode Topics End-->
