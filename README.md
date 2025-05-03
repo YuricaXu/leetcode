@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YuricaXu/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/YuricaXu/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/YuricaXu/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/YuricaXu/leetcode/tree/master/0792-binary-search) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/YuricaXu/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/YuricaXu/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/YuricaXu/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/YuricaXu/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/YuricaXu/leetcode/tree/master/0202-happy-number) |
 | [0949-cat-and-mouse](https://github.com/YuricaXu/leetcode/tree/master/0949-cat-and-mouse) |
 ## Stack
