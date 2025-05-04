@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YuricaXu/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/YuricaXu/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/YuricaXu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/YuricaXu/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YuricaXu/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/YuricaXu/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YuricaXu/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/YuricaXu/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/YuricaXu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/YuricaXu/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/YuricaXu/leetcode/tree/master/0148-sort-list) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuricaXu/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/YuricaXu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YuricaXu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YuricaXu/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YuricaXu/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YuricaXu/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/YuricaXu/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YuricaXu/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YuricaXu/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/YuricaXu/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
