@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YuricaXu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuricaXu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/YuricaXu/leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/YuricaXu/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/YuricaXu/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/YuricaXu/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/YuricaXu/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/YuricaXu/leetcode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
