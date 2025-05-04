@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YuricaXu/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/YuricaXu/leetcode/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/YuricaXu/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/YuricaXu/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/YuricaXu/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/YuricaXu/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuricaXu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuricaXu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/YuricaXu/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0949-cat-and-mouse](https://github.com/YuricaXu/leetcode/tree/master/0949-cat-and-mouse) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/YuricaXu/leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/YuricaXu/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/YuricaXu/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/YuricaXu/leetcode/tree/master/0131-palindrome-partitioning) |
 ## String Matching
 |  |
 | ------- |
