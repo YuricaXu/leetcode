@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YuricaXu/leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/YuricaXu/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/YuricaXu/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/YuricaXu/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/YuricaXu/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/YuricaXu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/YuricaXu/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/YuricaXu/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/YuricaXu/leetcode/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/YuricaXu/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YuricaXu/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YuricaXu/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/YuricaXu/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/YuricaXu/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/YuricaXu/leetcode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/YuricaXu/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/YuricaXu/leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/YuricaXu/leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/YuricaXu/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/YuricaXu/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/YuricaXu/leetcode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/YuricaXu/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
 ## Graph
 |  |
