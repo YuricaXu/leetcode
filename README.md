@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YuricaXu/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/YuricaXu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/YuricaXu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/YuricaXu/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YuricaXu/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
 | [1044-find-common-characters](https://github.com/YuricaXu/leetcode/tree/master/1044-find-common-characters) |
 | [1873-longest-nice-substring](https://github.com/YuricaXu/leetcode/tree/master/1873-longest-nice-substring) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/YuricaXu/leetcode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YuricaXu/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0949-cat-and-mouse](https://github.com/YuricaXu/leetcode/tree/master/0949-cat-and-mouse) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
