@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0399-evaluate-division](https://github.com/YuricaXu/leetcode/tree/master/0399-evaluate-division) |
+| [0406-queue-reconstruction-by-height](https://github.com/YuricaXu/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/YuricaXu/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/YuricaXu/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YuricaXu/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YuricaXu/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/YuricaXu/leetcode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/YuricaXu/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/YuricaXu/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
@@ -426,11 +428,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/YuricaXu/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/YuricaXu/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/YuricaXu/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/YuricaXu/leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Monotonic Queue
