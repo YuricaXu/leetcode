@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/YuricaXu/leetcode/tree/master/0645-set-mismatch) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YuricaXu/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YuricaXu/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/YuricaXu/leetcode/tree/master/0792-binary-search) |
 | [0881-loud-and-rich](https://github.com/YuricaXu/leetcode/tree/master/0881-loud-and-rich) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/YuricaXu/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/YuricaXu/leetcode/tree/master/0561-array-partition) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YuricaXu/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/YuricaXu/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Dynamic Programming
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/YuricaXu/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/YuricaXu/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YuricaXu/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0949-cat-and-mouse](https://github.com/YuricaXu/leetcode/tree/master/0949-cat-and-mouse) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/YuricaXu/leetcode/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Divide and Conquer
